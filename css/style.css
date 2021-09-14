@@ -328,3 +328,12 @@
   .gif-covid {
       height: 90%;
   }
+
+  .bloco-solo {
+      width: 45% !important;
+  }
+
+  .quinto-bloco {
+      padding-left: 25%;
+      width: 100%;
+  }
