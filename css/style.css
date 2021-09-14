@@ -324,3 +324,7 @@
   .links:hover {
     color: yellow;
   }
+
+  .gif-covid {
+      height: 90%;
+  }
