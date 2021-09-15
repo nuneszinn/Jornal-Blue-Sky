@@ -45,7 +45,7 @@
   /* Links nas barras de navegação */
 
   nav a {
-      float: left;
+      float: right;
       font-size: 17px;
       padding: 15px;
       text-decoration: none;
@@ -82,7 +82,7 @@
 
   #navbar img {
       width: 50px;
-      float: right;
+      float: left;
       margin-right: 10px;
   }
 
